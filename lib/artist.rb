@@ -16,5 +16,5 @@ class Artist
     @songs << song
     @songs
   end
-  
+
 end
